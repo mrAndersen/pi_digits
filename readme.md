@@ -1,1 +1,1 @@
-2000 pi digits using gmp withot ever calling free() :)
+2000 pi digits using gmp without ever calling free() :)
